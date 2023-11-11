@@ -12,7 +12,7 @@ Durante mi tiempo en la universidad, he tenido la oportunidad de explorar y prof
 </div>
 
 <ul>
-  <h2>Herramientas</h2>
+  <h2>Herramientas🛠️💻</h2>
   <li><strong>Desarrollo Frontend:  </strong> HTML, CSS, JavaScript</li> <br>
   <li><strong>Desarrollo Backend: </strong>Node.js, Java, Python</li>  <br>
   <li><strong>Bases de Datos:</strong> MySQL, PgAdmin</li>  <br>
@@ -27,7 +27,7 @@ Durante mi tiempo en la universidad, he tenido la oportunidad de explorar y prof
 
 
 <div> 
-<h2>Intereses</h2>
+<h2>Intereses🌈</h2>
 <img width="40%"  align="right" alt="Github" src="https://i.pinimg.com/564x/01/04/d8/0104d8604ec89b1871ee047587d8216d.jpg" />
 
 - 🎨 Diseño: Disfruto crear interfaces atractivas y funcionales.
@@ -39,7 +39,7 @@ Durante mi tiempo en la universidad, he tenido la oportunidad de explorar y prof
 
 
  <div align="rigth">
-   <h2>Habilidades</h2>
+   <h2>Habilidades🌐</h2>
     <li><strong>Diseño:</strong> Photoshop, Illustrator, InDesign, Figma</li>  <br>
    <li><strong>Herramientas de Productividad:</strong> VSCode, Tello, Notion</li> <br>
 
