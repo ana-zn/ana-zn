@@ -9,15 +9,73 @@ Durante mi tiempo en la universidad, he tenido la oportunidad de explorar y prof
 <br />
 
 **Happy Coding!** 😊
-
 </div>
 
-<div align="rigth">
-  <p>
-  
+<ul>
+  <li><strong>Desarrollo Frontend:  </strong> HTML, CSS, JavaScript</li>
+  <p align="right">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js" />
+    </a>
   </p>
-</div>
 
+  <li><strong>Desarrollo Backend: </strong>Node.js, Java, Python</li>
+  <p align="right">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,java,py" />
+    </a>
+  </p>
+
+  <li><strong>Bases de Datos:</strong> MySQL, PgAdmin</li>
+  <p align="right">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+    </a>
+  </p>
+
+  <li><strong>Control de Versiones:</strong> Git, Github</li>
+  <p align="right">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github" />
+    </a>
+  </p>
+
+  <li><strong>Diseño:</strong> Photoshop, Illustrator, InDesign, Figma</li>
+  <p align="right">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ps,ai,figma" />
+    </a>
+  </p>
+
+  <li><strong>Herramientas de Productividad:</strong> VSCode</li>
+  <p align="right">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode" />
+    </a>
+  </p>
+</ul>
+
+
+
+
+<div> 
+<h2>Intereses</h2>
+<img width="40%"  align="right" alt="Github" src="https://i.pinimg.com/564x/01/04/d8/0104d8604ec89b1871ee047587d8216d.jpg" />
+
+- 🎨 Diseño: Disfruto crear interfaces atractivas y funcionales.
+  
+- 📸 Edición de Imágenes:Exploro la creatividad también a través de la edición de imágenes
+  
+- 🎬 Edición de Videos: La narración visual me fascina.
+ </div>
+
+
+ <div align="rigth">
+   <h2>Habilidades</h2>
+   <p>
+     lorem  fsdfsddgghdgdfgdf
+   </p>
+ </div>
 
 ---
 
