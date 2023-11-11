@@ -12,50 +12,18 @@ Durante mi tiempo en la universidad, he tenido la oportunidad de explorar y prof
 </div>
 
 <ul>
-  <li><strong>Desarrollo Frontend:  </strong> HTML, CSS, JavaScript</li>
-  <p align="right">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js" />
-    </a>
-  </p>
+  <h2>Herramientas</h2>
+  <li><strong>Desarrollo Frontend:  </strong> HTML, CSS, JavaScript</li> <br>
+  <li><strong>Desarrollo Backend: </strong>Node.js, Java, Python</li>  <br>
+  <li><strong>Bases de Datos:</strong> MySQL, PgAdmin</li>  <br>
+  <li><strong>Control de Versiones:</strong> Git, Github</li> <br>
+<div align="center" margin ="20px">
+  <a  align="center"  href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,py,mysql,postgres,git,github" />
+</a>
+</div>
 
-  <li><strong>Desarrollo Backend: </strong>Node.js, Java, Python</li>
-  <p align="right">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,java,py" />
-    </a>
-  </p>
-
-  <li><strong>Bases de Datos:</strong> MySQL, PgAdmin</li>
-  <p align="right">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-    </a>
-  </p>
-
-  <li><strong>Control de Versiones:</strong> Git, Github</li>
-  <p align="right">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github" />
-    </a>
-  </p>
-
-  <li><strong>Diseño:</strong> Photoshop, Illustrator, InDesign, Figma</li>
-  <p align="right">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ps,ai,figma" />
-    </a>
-  </p>
-
-  <li><strong>Herramientas de Productividad:</strong> VSCode</li>
-  <p align="right">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode" />
-    </a>
-  </p>
 </ul>
-
-
 
 
 <div> 
@@ -72,10 +40,16 @@ Durante mi tiempo en la universidad, he tenido la oportunidad de explorar y prof
 
  <div align="rigth">
    <h2>Habilidades</h2>
-   <p>
-     lorem  fsdfsddgghdgdfgdf
-   </p>
- </div>
+    <li><strong>Diseño:</strong> Photoshop, Illustrator, InDesign, Figma</li>  <br>
+   <li><strong>Herramientas de Productividad:</strong> VSCode, Tello, Notion</li> <br>
+
+   <div align="left">
+  <a  align="center"  href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ps,ai,figma,vscode" />
+</a>
+</div>
+
+
 
 ---
 
