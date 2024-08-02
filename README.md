@@ -2,9 +2,7 @@
 <h1> Hola, Bienvenidos a mi perfil de GitHub <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
 <br />
 <p>
-  ¡Hola! Soy Ana, una apasionada estudiante de programación a punto de culminar mi formación en la Tecnicatura Universitaria en Programacion en la UTN, con sede en San Rafael. Mi recorrido académico me ha proporcionado habilidades sólidas en diversas áreas de la programación, y estoy emocionada por llevar este conocimiento al mundo profesional.
-
-Durante mi tiempo en la universidad, he tenido la oportunidad de explorar y profundizar en lenguajes de programación, desarrollo web y bases de datos. Estoy ansiosa por aplicar estos conocimientos en entornos laborales reales y contribuir a proyectos que desafíen y estimulen mi crecimiento profesional.
+  ¡Hola! Soy Ana.
 </p>
 <br />
 
@@ -13,13 +11,11 @@ Durante mi tiempo en la universidad, he tenido la oportunidad de explorar y prof
 
 <ul>
   <h2>Herramientas🛠️💻</h2>
-  <li><strong>Desarrollo Frontend:  </strong> HTML, CSS, JavaScript</li> <br>
-  <li><strong>Desarrollo Backend: </strong>Node.js, Java, Python</li>  <br>
-  <li><strong>Bases de Datos:</strong> MySQL, PgAdmin</li>  <br>
+  <li><strong>Desarrollo Frontend:  </strong> HTML, CSS</li> <br>
   <li><strong>Control de Versiones:</strong> Git, Github</li> <br>
 <div align="center" margin ="20px">
   <a  align="center"  href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,py,mysql,postgres,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 </a>
 </div>
 
