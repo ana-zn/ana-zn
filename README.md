@@ -15,7 +15,7 @@
   <li><strong>Control de Versiones:</strong> Git, Github</li> <br>
 <div align="center" margin ="20px">
   <a  align="center"  href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github" />
 </a>
 </div>
 
