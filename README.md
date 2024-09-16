@@ -1,30 +1,53 @@
-<div align="center">
+<div>
 <h1> Hola, Bienvenidos a mi perfil de GitHub <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
-<br />
-<p>
-  ¡Hola! Soy Ana.
+<div>
+  <h2>✨Sobre mi:</h2>
+  <p> <strong>  Soy Ana, desarrolladora y diseñadora UX/UI .</strong>
 </p>
-<br />
-
-**Happy Coding!** 😊
-</div>
-
-<ul>
+  <p > Tengo un enfoque multidisciplinario que combina la programación con el diseño creativo. Me especializo en crear experiencias web intuitivas y funcionales utilizando tecnologías como HTML, CSS y JavaScript. También disfruto trabajar en la edición de medios y la creación de contenido digital, lo que me permite aportar un valor añadido a cada proyecto.
+Siempre estoy en constante aprendizaje, adaptándome a nuevos desafíos y buscando mejorar tanto mis habilidades técnicas como creativas. Aquí podrás encontrar proyectos enfocados en desarrollo web, diseño de interfaces y soluciones innovadoras que mejoran la experiencia del usuario.
+  </p>
+  
+<div>
   <h2>Herramientas🛠️💻</h2>
-  <li><strong>Desarrollo Frontend:  </strong> HTML, CSS</li> <br>
-  <li><strong>Control de Versiones:</strong> Git, Github</li> <br>
+  <ul>
+    <li>
+      <strong>Lenguajes:</strong> HTML, CSS, JavaScript</li> 
+    </li>
+    <br>
+    <li>
+      <strong>Herramientas de Diseño: </strong> Figma, Adobe XD, Illustrator, Photoshop, Canva</li>
+    </li>
+     <br>
+    <li>
+      <strong>Frameworks y Preprocesadores:</strong>  Bootstrap, SASS</li>
+    </li>
+     <br>
+     <li>
+      <strong>Edición de video: </strong>Premiere Pro</li>
+      </li>
+    <br>
+     <li>
+    <strong>Productividad y organización: </strong>Notion</li>
+    </li>
+     <br>
+     <li>
+      <strong>Control de Versiones:</strong>  Git, GitHub</li>
+    </li>
+    <br>
+     <li>
+      <strong>Metodologías:</strong>  Agile, Design Thinking</li>
+    </li> 
+  </ul>
+</div> 
 <div align="center" margin ="20px">
   <a  align="center"  href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,xd,ai,ps,bootstrap,sass,pr,notion,git,github" />
 </a>
 </div>
 
-</ul>
-
-
 <div> 
-<h2>Intereses🌈</h2>
-<img width="40%"  align="right" alt="Github" src="https://i.pinimg.com/564x/01/04/d8/0104d8604ec89b1871ee047587d8216d.jpg" />
+<h2>🌈 Intereses</h2>
 
 - 🎨 Diseño: Disfruto crear interfaces atractivas y funcionales.
   
@@ -32,17 +55,12 @@
   
 - 🎬 Edición de Videos: La narración visual me fascina.
  </div>
+<h2>🌐 Para saber más: </h2> 
+<a href="https://linktr.ee/zn.ana22" target="_blank">linktr.ee/zn.ana22</a>
 
+<br>
 
- <div align="rigth">
-   <h2>Habilidades🌐</h2>
-    <li><strong>Diseño:</strong> Photoshop, Illustrator, InDesign, Figma</li>  <br>
-   <li><strong>Herramientas de Productividad:</strong> VSCode, Tello, Notion</li> <br>
-
-   <div align="left">
-  <a  align="center"  href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma,vscode" />
-</a>
+**Happy Coding!** 😊
 </div>
 
 
